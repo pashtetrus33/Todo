@@ -1,2 +1,4 @@
-# Todo
+# Git seminar
 HW Seminar2
+
+
