@@ -1,7 +1,7 @@
 package com.example.todo.fabrics;
 
 import com.example.todo.models.ToDo;
-
+// Builder for todo class
 public class ToDoBuilder {
 
     private static ToDoBuilder instance = new ToDoBuilder();
