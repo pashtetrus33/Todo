@@ -1,2 +1,2 @@
 # Todo
-HW Seminar1
+HW Seminar2
